@@ -1,0 +1,22 @@
+Metric,Hallucination Average,Non-Hallucination Average
+BLEU,1.5319719891192393e-231,1.5319719891192393e-231
+BERT,0.8162392759536647,0.8436640976772555
+Prompt,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      "

@@ -1,0 +1,25 @@
+Unnamed: 0.5,Unnamed: 0.4,Unnamed: 0.3,Unnamed: 0.2,Unnamed: 0.1,Unnamed: 0,prompt,accuracy,f1 score
+0.0,0.0,0.0,0.0,0.0,0.0,Given a Text and one hypothesis determine if the hypothesis is 'Hallucination' (1) or 'Not Hallucination' (0). Here are some examples:,0.3947368421,0.5576923077
+1.0,1.0,1.0,1.0,1.0,,"Given a Text and one hypothesis determine if the hypothesis is 'Hallucination' (1) or 'Not Hallucination' (0). Hallucinations can contradict the source material directly and offer logical inconsistency and factual inaccuracies. Another type of Hallucination does not contradict. However, at the same time, it cannot be verified against any source. Hence, it adds elements that are considered to be unconfirmable and speculative. Please answer only with 1 or 0. Here are some examples:",0.3026315789,0.3764705882
+2.0,2.0,,,,,"Given a Text and one hypothesis determine if the hypothesis is 'Hallucination' (1) or 'Not Hallucination' (0). Hallucinations can contradict the source material directly and offer logical inconsistency and factual inaccuracies. Another type of Hallucination does not contradict. However, at the same time, it cannot be verified against any source. Hence, it adds elements that are considered to be unconfirmable and speculative. Please answer only with 1 or 0. Here are some examples:
+Example 0:
+Text: The City  Chiuchow  is Kowloon 's other top restaurant and is famous for its goose dishes and other specialties from the Chiuchow region ( you may also wish to try the beef satay done in a creamy sauce ) .
+Hypothesis: A district of Kowloon, China.
+Label: 1The hypothesis 'A district of Kowloon, China' is considered a hallucination in this context because it misinterprets the information in the source text. The text mentions a restaurant called The City Chiuchow, which is famous for its goose dishes and specialities from the Chiuchow region. However, there is no indication in the text that Kowloon refers to a district. Kowloon is actually a district within Hong Kong, not a separate district within China. Therefore, the assumption that Kowloon is a district is a misinterpretation or hallucination, as it deviates from the reality presented in the text.
+Example 1:
+Text: “ I went to see the witchdoctor , the  igqira  . And he spoke to the izinyanya , the spirits of the ancestors . ”
+Hypothesis: (Wicca) A witchdoctor.
+Label: 1The hypothesis '(Wicca) A witchdoctor' is considered a hallucination in this context because it inaccurately interprets the information provided in the source text. The source text mentions visiting a witchdoctor, referred to as 'igqira,' who communicates with the spirits of the ancestors, known as izinyanya. The term witchdoctor typically refers to a traditional healer or spiritual practitioner in various cultures, especially in African or indigenous communities, and is not specific to Wicca. Therefore, assuming that the witchdoctor mentioned in the text is associated with Wicca is a misinterpretation or hallucination, as it deviates from the cultural and contextual information provided.
+Example 2:
+Text: Haul away , keeping strain on both parts of the halyard so that the  pigstick  remains vertical as it goes up and does n't foul the spreaders .
+Hypothesis: (nautical) A halyard.
+Label: 0The hypothesis '(nautical) A halyard' is considered not hallucination in this context because it accurately interprets the terminology used in the source text. The text mentions 'halyard' implicitly by describing the action of 'keeping strain on both parts of the halyard' to ensure that the 'pigstick' remains vertical. A halyard is a rope or tackle used for hoisting and lowering sails, flags, or other objects on a ship. Since the term 'halyard' is directly related to nautical terminology and fits the context of the action described in the text, the hypothesis aligns with the information provided and is therefore considered accurate rather than a hallucination.
+Example 3:
+Text: And what difference is there between the credibleness and  rationalness  of any of these wonders and the credibleness and rationalness of Papal infallibility ?
+Hypothesis: The quality of being rational.
+Label: 0The hypothesis 'The quality of being rational' is not deemed a hallucination in this context because it aligns with the content of the source text.
+Text: Chacun fait à sa guise.
+Hypothesis: No matter what you do to your guide.
+Label:",0.3815789473684211,0.4719101123595506
+3.0,,,,,,Imagine you are a classifier. Given a Text and one hypothesis. Your task is to classify if the hypothesis is 'Hallucination' (1) or 'Not Hallucination' (0). Here are some examples:,0.4342105263157895,0.5981308411214953
+,,,,,,Imagine you are a classifier. Given a Text and one hypothesis. Your task is to classify if the hypothesis is 'Hallucination' (1) or 'Not Hallucination' (0). Explain your choice. Here are some examples:,0.5131578947368421,0.6407766990291262

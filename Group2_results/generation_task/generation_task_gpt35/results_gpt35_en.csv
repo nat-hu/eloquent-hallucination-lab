@@ -1,0 +1,1072 @@
+id,source,hyp+,hyp-,prompt
+0,It has enabled us to support and encourage an exchange of experiences and to pursue activities to raise the level of competence throughout Europe.,It has allowed us to back and promote a sharing of experiences and engage in efforts to enhance skills across Europe.,It has made it difficult for us to provide support and encourage an exchange of experiences and to pursue activities to raise the level of competence throughout Europe.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+1,"Therefore, I am calling for an increase in the premiums for all varieties of leaf tobacco for the 1999, 2000 and 2001 harvests.","As a result, I am proposing a rise in the prices of all types of leaf tobacco for the harvests of 1999, 2000, and 2001.","Consequently, I am suggesting a decrease in the premiums for all types of leaf tobacco for the 1999, 2000, and 2001 harvests.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+2,"In other words, a person may be prevented from coming near their victim when there is reason to fear that violent acts will be carried out again.","Put differently, an individual might be stopped from approaching their target if there is a concern that further violent actions will occur.","Conversely, a person might not be allowed to approach their victim if there is no indication of potential violent behavior.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+3,None of my 34 amendments were adopted and my arguments against the ridiculous administrative burden proposed were not heeded.,None of the 34 changes I suggested were accepted and my objections to the excessive administrative workload were ignored.,My suggestions for amendments were all rejected and my concerns about the unreasonable administrative workload were dismissed.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+4,"The final key feature of the report is its orientation. It aims to protest against certain drifts that are becoming evident, and I will mention two instances.","The report's ultimate crucial aspect is its focus. It intends to oppose specific trends that are becoming apparent, and I will highlight two examples.","The report's main characteristic is its layout. It seeks to support certain shifts that are becoming noticeable, and I will discuss two cases.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+5,It is high time an appropriate level of social protection was created at European level for those whose work does not fit into the usual pattern.,It is long overdue to establish a suitable level of social security at the European level for individuals whose employment does not conform to the typical structure.,It is essential to implement a comprehensive social welfare system at the European level for workers who follow the traditional employment model.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+6,"These sums, however, have still not produced the desired effect: the substantial fall in the average earnings of the Palestinians is proof of this.","Despite this, the desired outcome has not been achieved by these amounts: the significant decrease in the Palestinians' average income serves as evidence of this.","The funds, on the other hand, have successfully led to the desired impact: the significant rise in the average earnings of the Palestinians is a clear indication of this.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+7,"Mr President, the approach adopted by the rapporteur to the Commission's 1999 annual economic report is comprehensive and also sensible.","The rapporteur's approach to the Commission's 1999 annual economic report is thorough and reasonable, according to the President.","The rapporteur's approach to the Commission's 1999 annual economic report is lacking in depth and logic, according to the President.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+8,"The Berlin summit, which will focus solely on Agenda 2000, is of particular importance for the future of the European Union.","The Berlin meeting, which will concentrate exclusively on Agenda 2000, holds significant significance for the European Union's future.","The Berlin conference, which will discuss only Agenda 2000, is not relevant to the European Union's future.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+9,"As a result, I cannot promise the chairman of the Committee on Budgets that there will be 100 % funding for the financial programme.","Therefore, I am unable to guarantee the chairman of the Budgets Committee that the financial program will receive full funding.","Consequently, I can assure the chairman of the Budgets Committee that the financial program will be fully funded.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+10,"We voted for Amendments Nos 22 to 25, even though they do not take adequate measures to prevent these problems from happening.",We supported Amendments Nos 22 to 25 despite their lack of sufficient measures to address these issues.,We opposed Amendments Nos 22 to 25 due to their failure to address these issues adequately.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+11,"Secondly, we say that the type approval rules as from 2005 must provide in precise terms that new cars must be recycling-friendly.","Furthermore, we argue that the regulations concerning type approval starting in 2005 should clearly state that newly manufactured vehicles need to be environmentally sustainable.","Additionally, it is important to note that the regulations for type approval since 2005 do not emphasize the importance of new cars being eco-friendly.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+12,"B4-0188/99 by Mrs d'Ancona, on behalf of the PSE Group, on the death penalty against Greg Summers - Texas, USA; Leonard Peltier","Mrs d'Ancona presented B4-0188/99 on behalf of the PSE Group, addressing the issue of the death penalty in Texas, USA, specifically concerning Greg Summers and Leonard Peltier.","The PSE Group introduced B4-0188/99 regarding the death penalty in Texas, USA, focusing on Greg Summers and Leonard Peltier.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+13,"We struggle with water on a daily basis in the Netherlands - in the polders, the delta where the Meuse, the Rhine and the Scheldt flow into the sea.","Every day in the Netherlands, we face challenges related to water management in areas like the polders and the delta where the Meuse, the Rhine, and the Scheldt rivers meet the sea.","Water management is not a major concern in the Netherlands, even in regions like the polders and the delta where multiple rivers converge.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+14,"It may lower costs by 10 % and is, of course, only applicable over the shorter road legs of the combined transport journey.",It might reduce expenses by 10% and is specifically relevant for the shorter segments of the multimodal transport trip.,It could potentially decrease expenses by 10% and is mainly suitable for the longer road legs of the combined transport journey.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+15,"Nothing has been done in the 27 years since then, while we have liberalised sea transport, air transport and road transport.","No progress has been made in the 27 years since then, despite the liberalization of sea transport, air transport, and road transport.","Significant advancements have been achieved in the 27 years since then, following the liberalization of sea transport, air transport, and road transport.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+16,"This concerns the applicant countries which are still in the process of membership negotiations, but which in the meantime are being discriminated against.","This pertains to the candidate nations that are currently engaged in talks for joining, yet are facing discrimination in the interim.",This relates to the potential member states that are not involved in the membership negotiations and are not facing any discrimination.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+17,"I would be grateful if you could tell me whether or not Rambouillet was a European Union initiative or a Franco-British initiative, as I did not quite understand this point.","I would appreciate it if you could clarify whether Rambouillet was initiated by the European Union or by France and Britain, as I am unclear on this matter.","I am curious to know if Rambouillet was a joint effort between the European Union and the United States, as I am confused about this aspect.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+18,"Madam President, I referred earlier to inherited inertia, and this leads me to the third group of amendments, to which Mr Fabre-Aubrespy referred.","Earlier, I mentioned the concept of inherited inertia, which brings me to the third set of amendments mentioned by Mr. Fabre-Aubrespy.","Madam President, I talked about the concept of genetic momentum, which brings me to the third set of amendments, as mentioned by Mr. Fabre-Aubrespy.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+19,"Other elements have contributed to the proposal to conclude this partnership agreement, especially the very worrying regional context in Central Asia.","Various factors have played a role in the suggestion to finalize this partnership deal, with particular emphasis on the concerning regional situation in Central Asia.",The decision to finalize this partnership agreement was solely based on the regional context in Central Asia.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+20,"A way must also be found to tax all kinds of cross-border capital movements which are carried out for profit, in order to put a brake, albeit in a limited way, on the increase in the volume of parasitic, speculative capital.","It is necessary to discover a method to impose taxes on various forms of international capital transfers made for financial gain, to slow down the growth of speculative capital.",Implementing taxes on cross-border capital movements is not a viable solution to control the rise of speculative capital.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+21,An important report was also put together under the leadership of Susan Waddington extending the debate to cover the issue of the trade in women.,Susan Waddington led the effort to compile a significant report that expanded the discussion to include the topic of trafficking women.,Susan Waddington was solely responsible for compiling the report on the trade in women.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+22,"Over recent years, these have largely been behind the development of a significant number of economic policies, which is good for employment.","In recent times, these factors have mainly contributed to the creation of numerous economic strategies that benefit job opportunities.","In the past, these factors have primarily influenced the establishment of various economic measures that support employment.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+23,"The presidency is very much of this view, as economic and political stability in Jordan is a crucial factor in peace-keeping in the Middle East.",The presidency strongly believes that economic and political stability in Jordan plays a vital role in maintaining peace in the Middle East.,The presidency is not concerned about the impact of economic and political stability in Jordan on peace-keeping in the Middle East.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+24,"In addition, the Commission is unable to accept Amendments Nos 27 and 28, because they go beyond the scope of this programme.","Furthermore, the Commission cannot approve Amendments Nos 27 and 28 as they exceed the program's scope.","Moreover, the Commission is able to consider Amendments Nos 27 and 28, even though they may not align with the objectives of the program.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+25,"On the contrary, things came to a head in the crisis and we now know for certain that this Augean stable at any rate is going to be cleaned out.","Conversely, the situation reached a critical point during the crisis, and it is now definite that this problematic situation will be resolved.","In contrast, the issue escalated during the crisis, and it is now clear that this messy situation will remain unresolved.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+26,"As you will remember, on 30 October 1997, the Commission presented a Community initiative for the European Capital of Culture.","On 30 October 1997, the Commission introduced a Community proposal for the European Capital of Culture, as you may recall.","The Commission announced a Community initiative for the European Capital of Culture on 30 October 1997, which is still fresh in your memory.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+27,A second point on the timing: this Committee of Experts will make its report available - if I recall correctly - on 15 March.,"The Committee of Experts is expected to release its report on 15 March, according to my memory.","The report from the Committee of Experts is scheduled to be published on 15 March, as per the information provided.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+28,There are four points in relation to which the Committee on Agriculture and Rural Development has made changes which we believe will be adopted.,The Committee on Agriculture and Rural Development has proposed modifications in four areas that are likely to be accepted.,The Committee on Agriculture and Rural Development has suggested alterations in four aspects that are expected to be rejected.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+29,"In the Nordic countries there are excellent examples of this, and for that reason I recommend that Amendment No 1 be rejected.","The Nordic countries provide great illustrations of this, which is why I suggest rejecting Amendment No 1.",Amendment No 1 should be accepted due to the lack of good examples in the Nordic countries.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+30,"It is we politicians who are most concerned, because we understand the link between energy consumption and CO2 emissions.",Politicians are the most concerned because they comprehend the connection between energy usage and CO2 emissions.,Politicians are not really worried about the relationship between energy consumption and CO2 emissions.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+31,"Having pressed the Commission to present this proposal, the Socialist Group - to which I have the privilege of belonging - now supports it enthusiastically.","After urging the Commission to introduce this proposal, the Socialist Group, of which I am a member, is now fully behind it.","The Socialist Group, to which I am honored to be a part of, is now opposing this proposal despite previously pushing the Commission to present it.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+32,"For example, unemployment is very high in Réunion and in the West Indies. Therefore, we should not devote our efforts to integrating unlimited numbers of immigrants.","Due to the high unemployment rates in Réunion and the West Indies, it is not advisable to focus on integrating a large influx of immigrants.",The high unemployment rates in Réunion and the West Indies are not a factor to consider when deciding on the integration of immigrants.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+33,"A uniform phased reduction of 3 % will primarily penalise the sectors of production which receive the most aid, such as tobacco growing.","A gradual decrease of 3% will mainly impact industries that benefit the most from subsidies, like tobacco cultivation.","A sudden cut of 3% will have a minimal effect on sectors that heavily rely on government assistance, like tobacco farming.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+34,The situation in India is appalling as 50 million women are missing because they are eliminated right from the stage of conception.,"In India, the current state is distressing with 50 million women missing due to being eliminated from conception onwards.",The condition in India is terrible with 50 million women missing because they are removed from the stage of birth.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+35,"Nevertheless, we want to limit the Council regulations to general provisions and to cover the remaining provisions in implementing regulations.","However, our aim is to restrict the Council regulations to basic rules and address the rest of the provisions in supplementary regulations.","However, we aim to expand the Council regulations to include specific provisions and not rely on implementing regulations.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+36,I hope that the Euro-Mediterranean Conference to held in Stuttgart between 4 and 6 April will enable us to make progress in that direction.,I am optimistic that the Euro-Mediterranean Conference scheduled to take place in Stuttgart from 4 to 6 April will help us move forward in that aspect.,I believe that the Euro-Mediterranean Conference in Stuttgart will not contribute to any progress in that regard.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+37,"In 1996, the Commission submitted its proposal to have Turkey included in the Socrates, Youth for Europe and Leonardo programmes.","In 1996, the Commission put forward its suggestion to incorporate Turkey into the Socrates, Youth for Europe, and Leonardo initiatives.","The Commission's proposal in 1996 did not involve including Turkey in the Socrates, Youth for Europe, and Leonardo programs.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+38,"We cannot accept Amendments Nos 19, 21 and 51, which are aimed at regulating the import and export of genetically modified organisms.","Amendments Nos 19, 21, and 51, targeting the control of genetically modified organisms' import and export, are not acceptable.","The proposed changes in Amendments Nos 19, 21, and 51 concerning the oversight of genetically modified organisms' trade are necessary.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+39,"I would also like to draw attention to Amendments Nos 27, 29 and 32 on public inquiries or consultation in connection with trial releases.","I would also want to highlight Amendments Nos 27, 29, and 32 regarding public inquiries or consultations related to trial releases.","I would also like to emphasize Amendments Nos 27, 29, and 32 on the topic of public inquiries or consultations concerning trial releases.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+40,"A true strategic partnership should be established with this great country of a billion inhabitants, compared with 1.2 billion in China.","It is important to form a genuine strategic alliance with this large nation of one billion people, in contrast to China's population of 1.2 billion.","Creating a sincere strategic collaboration with this vast country of a billion people is more crucial than ever before, surpassing China's population of 1.2 billion.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+41,"This is a positive development, and I can of course endorse the outcome which appears in the form of Compromise Amendments Nos 189 to 201.","I view this as a favorable progress, and I naturally support the result presented as Compromise Amendments Nos 189 to 201.","I see this as a negative development, and I cannot endorse the outcome reflected in Compromise Amendments Nos 189 to 201.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+42,"For instance, in the summer it would perhaps be possible to set up surveillance operations to detect the flimsy craft used to make the crossing.","During the summer, it might be feasible to establish monitoring activities to identify the fragile boats utilized for the journey.","In the winter, it could be easy to organize surveillance operations to spot the sturdy vessels used for the crossing.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+43,"The increase in the number of staff employed must be strictly controlled, and this is a point on which I disagree with the Committee of Wise Men.","It is essential to closely monitor the growth in the workforce, a stance that differs from that of the Committee of Wise Men.","The rise in staff numbers should be left unchecked, which aligns with the Committee of Wise Men.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+44,"The public must be aware of the collective responsibility borne by the whole Commission, but also of every individual Commissioner's accountability.","The public needs to understand the shared responsibility of the entire Commission, as well as the individual accountability of each Commissioner.",It is not necessary for the public to be informed about the joint responsibility of the Commission and the individual accountability of each Commissioner.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+45,We need to ensure that investigations at the external borders of the EU are effective and to investigate the main routes used for illegal activities.,It is important to guarantee that inquiries conducted at the EU's external borders are efficient and to examine the primary pathways utilized for unlawful actions.,It is crucial to make sure that inspections at the outer boundaries of the EU are successful and to explore the key paths employed for illicit operations.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+46,"For the same reason, we cannot accept Amendments Nos 5, 6, 7, 11, 16 and 20 or the second part of Amendments Nos 9 and 15.","Due to the identical rationale, Amendments Nos 5, 6, 7, 11, 16, and 20, as well as the latter portion of Amendments Nos 9 and 15, are not able to be approved.","For a similar rationale, Amendments Nos 5, 6, 7, 11, 16, and 20, along with the latter part of Amendments Nos 9 and 15, can be accepted.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+47,"Commissioner, the Malta forum will take place in March, and it is a great pity that the European Parliament will not be allowed to participate in it.","The European Parliament will not be able to participate in the Malta forum scheduled for March, which is unfortunate.",The European Parliament is disappointed that they cannot attend the Malta forum in March.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+48,And I should like to warn this House that we must be careful when voting on Amendment No 98 so that we are not inconsistent.,I want to caution the members of this assembly that we need to be cautious while voting on Amendment No 98 to avoid being contradictory.,It is important to note that we should be cautious when considering Amendment No 98 to ensure consistency.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+49,"In addition, there will be no benefit to exchequers as the taxable interest payments will be outside the 15 Member States.","Furthermore, exchequers will not receive any advantage since the interest payments subject to taxation will fall outside the jurisdiction of the 15 Member States.","Moreover, exchequers will see a positive impact as the taxable interest payments will be within the 15 Member States.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+50,"Mr Florenz said, in his nice way, that we would be taking a softer line and the directive would only apply from the year 2020.",Mr Florenz mentioned politely that we would adopt a more lenient approach and the directive would come into effect starting in 2020.,Mr Florenz rudely stated that we would be implementing a stricter stance and the directive would be effective immediately.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+51,Establishing a new framework directive is certainly going to take some doing: the way it was dealt with at first reading was extremely confusing.,Creating a new framework directive will definitely require effort: the initial handling of it was very perplexing.,Developing a fresh framework directive will be a piece of cake: the initial approach to it was crystal clear.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+52,"However, there is one issue, outlined in paragraph 11, which clearly detracts from the report's otherwise good intentions.","Nevertheless, there is a problem highlighted in paragraph 11 that undermines the positive intentions of the report.","Despite this, paragraph 11 does not really impact the overall positive goals of the report.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+53,"In Kyoto, the European Union committed itself to reducing greenhouse gas emissions by 8 % compared to 1990 levels before 2012.",The European Union pledged in Kyoto to decrease greenhouse gas emissions by 8% from 1990 levels by 2012.,The European Union promised in Kyoto to cut down greenhouse gas emissions by 10% from 1990 levels by 2012.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+54,"It is not only a pressing problem for the Member States in the Mediterranean region, but also concerns, to a large extent, the entire European Union.",The issue is not only urgent for the countries in the Mediterranean area but also significantly impacts the whole European Union.,The Mediterranean region is facing a critical issue that does not affect the European Union as a whole.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+55,It taxes the interest on the savings of the small investor and the small saver and eases the tax burden on companies and large conglomerates.,It levies charges on the interest earned from the savings of individual investors while reducing the tax load on corporations and big business entities.,It imposes fees on the interest from the savings of the small investor and the small saver and increases the tax burden on companies and large conglomerates.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+56,"Amendment No 3 refers to the putting in place of a Community plan of action which, however, has already been established.",Amendment No 3 pertains to the implementation of a Community action plan that has already been set up.,Amendment No 3 discusses the creation of a new Community plan of action that is yet to be established.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+57,Berlin was the scene of his rise to fame and it was to Berlin that he returned in 1945 to promote dialogue with the German people.,Berlin is where he became famous and where he went back in 1945 to encourage communication with the German population.,"Berlin was where he achieved fame and in 1945, he went back to Berlin to avoid interacting with the German people.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+58,"However, I am opposed to the proposal contained in paragraph 8 of the resolution, because it will lead to increased supranationality.",I do not support the suggestion in paragraph 8 of the resolution as it will result in more supranational control.,I am in favor of the idea presented in paragraph 8 of the resolution as it will enhance supranationality.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+59,"According to what I have heard, the ISO will already have a label ready for the summer of 1999, in other words in a few months' time.","As per my understanding, the ISO is expected to have a designation prepared for the summer of 1999, which means it will be ready in a couple of months.","The ISO is planning to release a new label for the summer of 1999, which is set to be launched in a few months.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+60,"Nevertheless, there are two particular points that cannot go unmentioned. The first relates to road transport and is the issue of working time.","However, there are two specific points that must be mentioned. The first concerns road transportation and involves the topic of working hours.","However, there are three specific points that must be mentioned. The first concerns road transportation and involves the topic of working hours.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+61,"In May 1998, the Single Market Council adopted provisions regarding the development of a single market in medicinal products.","In May 1998, the Single Market Council approved regulations concerning the establishment of a unified market for pharmaceuticals.",The Single Market Council made decisions about creating a unified market for medical devices in May 1998.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+62,"We should remember that the nuclear power station at Chernobyl was, until April 1986, said to have presented 'few risks'.",It is important to recall that the Chernobyl nuclear power station was considered to have minimal risks before April 1986.,The Chernobyl nuclear power station was known to be extremely safe before April 1986.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+63,The report we asked for from the committee of experts is part of the consequences of our withholding the discharge for 1996.,The report we requested from the panel of specialists is a result of our decision to delay the release for 1996.,The report we demanded from the group of experts is unrelated to our decision to hold back the discharge for 1996.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+64,"The irregularities which have been identified must never happen again, and this means that both the methods and the approach need to be changed.","It is crucial to ensure that the mistakes that have been found do not occur in the future, requiring a change in both the strategies and the mindset.","The errors that have been pinpointed should be repeated to prevent any future occurrences, necessitating a modification in both the techniques and the attitude.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+65,"I am referring more particularly here to Amendments Nos 4 and 33, which provide for the directive to be monitored by the Commission.","I am specifically talking about Amendments Nos 4 and 33, which state that the Commission should oversee the implementation of the directive.","I am specifically discussing Amendments Nos 4 and 33, which outline the responsibilities of the Commission in enforcing the directive.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+66,That is why it is also important that the innovation dimension should become a more integral part of interregional and cross-border cooperation.,This is the reason why it is crucial for the innovation aspect to be more deeply integrated into interregional and cross-border collaboration.,"Hence, it is crucial for the innovation dimension to be excluded from interregional and cross-border cooperation.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+67,"Environmental considerations must feature prominently in this process, particularly sustainable development, as it is one of the distinguishing features of the European Union.","Environmental factors should play a significant role in this procedure, especially focusing on sustainable development, which is a key characteristic of the European Union.","The process should prioritize economic factors over environmental concerns, as sustainable development is not a priority for the European Union.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+68,"Mrs Haug's report is an important addition to the Agenda 2000 debate, and to the ongoing preparation process for the next phase of the programme.",Mrs Haug's contribution is a valuable supplement to the discussion on Agenda 2000 and the continued planning for the next stage of the program.,Mrs Haug's analysis is insignificant in the context of the Agenda 2000 debate and the upcoming phase of the program.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+69,"Fortunately, there has been a cease-fire since 1994 which is opening the way for negotiation, and the Minsk Group is taking charge of this.","Thankfully, a truce has been in place since 1994, paving the way for discussions, with the Minsk Group overseeing the process.","Thankfully, a peace agreement was signed in 1994, leading to direct talks, and the Minsk Group is overseeing the situation.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+70,"Women make up 80 % of the people who carry out secretarial and office work, while men occupy 87 % of the managerial positions.","The majority of secretarial and office work is done by women, whereas most managerial positions are held by men.","Men dominate the secretarial and office work sector, with women holding the majority of managerial positions.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+71,"In a similar manner, I could accept the proposed Amendment No 11, which would require the same separation but in a shorter time period.","Likewise, I am open to approving Amendment No 11, which calls for the same division but within a more condensed timeframe.","I am in favor of Amendment No 11, which suggests a different approach to the separation process.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+72,The outcome will hinge on how the new decision-making procedures work out in practice. We cannot therefore support paragraphs 30 and 31.,"The result will depend on the effectiveness of the new decision-making processes in action. Therefore, we are unable to endorse sections 30 and 31.","The conclusion will be determined by the success of the new decision-making methods in practice. As a result, we are unable to back paragraphs 30 and 31.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+73,"But the US, in threatening a trade boycott, is overstepping the bounds of that clear position and the bounds of the transatlantic partnership.",The US is exceeding the limits of its clear position and the transatlantic partnership by threatening a trade boycott.,The US is staying within the boundaries of its clear position and the transatlantic partnership by threatening a trade boycott.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+74,"In short, therefore, the Commission accepts Amendment Nos 1, 5, 6, 7, 8, 9 and 11, whilst rejecting Amendments Nos 2, 3, 4, 10 and 12.","To summarize, the Commission approves Amendments Nos 1, 5, 6, 7, 8, 9, and 11, but does not support Amendments Nos 2, 3, 4, 10, and 12.","In brief, the Commission agrees with all the proposed amendments.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+75,"While the Kalanke ruling was a setback, the European Court of Justice's decision in the 1997 Marschall judgment was encouraging.","Although the Kalanke ruling was a disappointment, the 1997 Marschall judgment by the European Court of Justice was positive.","The Kalanke ruling was a positive development, and the 1997 Marschall judgment by the European Court of Justice was discouraging.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+76,People would think we were mad if we said tomorrow that drivers were allowed to take their cars on the road without an insurance certificate.,"If we were to announce tomorrow that drivers could drive without an insurance certificate, people would consider us crazy.",It would be considered normal if we suddenly declared that drivers could operate their vehicles without insurance certificates.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+77,"As we have already said, the adoption of such a stance is incompatible with the aims of the Treaty, because agricultural expenditure is compulsory.","As previously mentioned, taking such a position goes against the goals of the Treaty due to the mandatory nature of agricultural spending.","The Treaty's objectives are not aligned with the adoption of this stance, as agricultural expenditure is not a requirement.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+78,"Of the 279 local authorities that exist in Sweden, 211 - all of them in the interior of the country - have lost part of their population.","211 out of the 279 local authorities in Sweden, all located in the country's interior, have experienced a decline in their population.","The majority of local authorities in Sweden have seen an increase in their population, with only a few exceptions in the interior regions.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+79,"This is also the reason why we cannot accept Amendment No 25 or Amendments Nos 46 and 54, but we can endorse Amendment No 43.","This is why we are unable to support Amendment No 25 or Amendments Nos 46 and 54, but we can back Amendment No 43.","This is the explanation for why we reject Amendment No 25 or Amendments Nos 46 and 54, and we also support Amendment No 43.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+80,"Madam President, in yesterday's International Herald Tribune, the following appeared in the section 'News from 50 years ago'.","Yesterday, in the International Herald Tribune, Madam President read the news from 50 years ago.",Madam President found an interesting article in yesterday's International Herald Tribune.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+81,The current status quo of a 12-mile limit for the area is the best possible compromise for the whole of the French fishing sector.,The French fishing sector considers the existing 12-mile limit as the most suitable compromise.,The French fishing industry is unhappy with the current 12-mile limit and is pushing for a larger area to be designated for fishing.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+82,It has come to my knowledge that we have 300 freelance interpreters whom the Commission has not paid properly since October.,I have learned that 300 freelance interpreters have not been paid correctly by the Commission since October.,I recently discovered that the Commission has been compensating 300 freelance interpreters adequately since October.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+83,"For example, the conclave of foreign ministers in Luxembourg on 21 February made substantial progress on a number of issues.",The meeting of foreign ministers in Luxembourg on 21 February achieved significant advancements on various matters.,The gathering of foreign ministers in Luxembourg on 21 February failed to make any headway on several issues.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+84,"Cigarettes account for the other 95 %, but as far as they are concerned, this report only deals with technical adjustments to the taxation regime.","Cigarettes make up the remaining 95%, but this report focuses solely on technical changes to the tax system in relation to them.","This report discusses only technical changes to the tax system, without considering the impact of cigarettes which account for 95%.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+85,"But at that time the agricultural proportion of the budget, accounting for over 70 %, was considerably higher than it is today.","However, during that period, the agricultural sector's share of the budget, which was more than 70%, was significantly greater than it is now.","During that era, the budget was primarily dominated by agricultural expenses, making up more than 70% of the total, which is not the case today.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+86,"In two days' time, we shall have the debate and the decisions of the European Council on Agenda 2000 and the financial perspective.",The European Council will discuss Agenda 2000 and the financial perspective in two days.,The European Council meeting will focus on Agenda 2000 and the financial perspective next week.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+87,"The Member States are, in other words, being asked to harmonise their economic policies - which is one of the reasons why I voted against this report.","The countries are being requested to align their economic strategies, which is why I opposed this report.","The nations are being urged to synchronize their financial plans, which is why I supported this report.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+88,"We have also considered this, and we think that these vehicles should only be exempt from Articles 4 and 7 of the proposal.","After careful consideration, we believe that these vehicles should only be excluded from Articles 4 and 7 of the proposal.","Upon reflection, we are of the opinion that these vehicles should be completely exempt from all aspects of the proposal.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+89,How is rail transport supposed to compete with road transport if large containers cannot be brought to the trains and we are therefore forced to accept the 44 tonne limit?,"How can rail transportation be expected to rival road transportation when it is unable to accommodate large containers, leading us to comply with the 44-ton limit?",Why is it so difficult for rail transport to keep up with road transport when they both have their own advantages and limitations?,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+90,"For the latter, the initial birth of several operators is now giving way to the reconcentration of the sector in the hands of a single company.",The sector is now consolidating under the control of one company after the emergence of multiple operators.,The sector is experiencing a boom in the number of companies competing for control.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+91,"At the same time, and I always thought this was correct, we have quite simply deleted Chapter 8 from the Convention entirely.",I always believed it was accurate that we removed Chapter 8 from the Convention entirely.,Chapter 8 was removed from the Convention due to a misunderstanding.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+92,"It is true that even greater efforts could be made in this direction, as my honourable colleague said, and indeed we are demanding progress here.","My honorable colleague mentioned that there is room for even more significant efforts in this area, and we are actively pushing for progress.","My honorable colleague suggested that no further efforts are needed in this regard, and we are satisfied with the current progress.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+93,"For that reason, on 17 December 1998 the Council adopted a comprehensive programme to supply agricultural produce to Russia.","Therefore, the Council approved a detailed plan on 17 December 1998 to provide agricultural products to Russia.","On 17 December 1998, the Council decided to implement a broad initiative to deliver agricultural goods to Russia.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+94,Frontier regions where the inhabitants do not understand their neighbour's language cannot fully experience the single market at local level.,Frontier areas with residents who are unable to comprehend the language spoken by their neighbors may not be able to fully engage in the local market.,Border areas with people who speak different languages may have no issues participating in the local market.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+95,We welcome the adoption by the Council of Ministers of general guidelines on the issue of the death penalty in June 1998.,"In June 1998, the Council of Ministers approved general guidelines regarding the death penalty, which we support.",The Council of Ministers rejected the general guidelines on the death penalty in June 1998.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+96,"In addition, television campaigns designed to dissuade would-be immigrants from making the crossing could be broadcast on television in northern Morocco.","Furthermore, television advertisements aimed at discouraging potential migrants from attempting the journey could be aired on TV in northern Morocco.","Moreover, radio commercials targeting potential immigrants could be broadcast on television in northern Morocco.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+97,"Thirdly, the Commission agrees with the preoccupation of the rapporteur as far as the famous RAL, reste à liquider , the backlog, is concerned.","Thirdly, the Commission concurs with the rapporteur's concern regarding the well-known outstanding payments, known as RAL.","Thirdly, the Commission disagrees with the rapporteur's focus on the issue of the famous RAL backlog.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+98,1.Negotiations between the governments on the reform of agricultural policy are still in progress and will be resumed today.,The governments are still in the process of negotiating the reform of agricultural policy and will continue discussions today.,The governments have already reached an agreement on the reform of agricultural policy and will not be discussing it further.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+99,"It also recommends strengthening the initiative-taking and political impetus of the Commission, whose political accountability would also be improved in that way.","It also suggests enhancing the Commission's initiative-taking and political drive, which would also enhance its political accountability.","It suggests weakening the initiative-taking and political impetus of the Commission, which would not improve its political accountability.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+100,Another declaration to mention in this respect is Declaration No 39 annexed to the Treaty of Amsterdam on the quality of drafting.,Another point to note is Declaration No 39 attached to the Treaty of Amsterdam regarding the quality of writing.,Declaration No 39 is not relevant to the Treaty of Amsterdam on the quality of drafting.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+101,It is extremely important that the forthcoming European Council meeting in Berlin should cut the Gordian knot on Agenda 2000.,It is crucial that the upcoming European Council gathering in Berlin resolves the complex issues surrounding Agenda 2000 decisively.,It is imperative that the upcoming European Council meeting in Berlin avoids addressing the challenges of Agenda 2000.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+102,"As a result of this investment, which I fully support, the suburban rail network will be increased in capacity in terms of over 60 %.","I am in full support of this investment, which will lead to an increase in the capacity of the suburban rail network by over 60 percent.","The suburban rail network will see a significant boost in capacity due to this investment, which I fully endorse.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+103,"That is precisely why we cannot give way to the unjustified US demand, even though and in fact just because they are threatening lunatic sanctions.","This is the exact reason why we cannot yield to the unfounded request from the US, especially when they are threatening irrational sanctions.","This is the main reason why we should comply with the unreasonable US demand, despite their threat of insane sanctions.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+104,All aspects of the question need to be brought together; perhaps a thorough investigation of the whole practice of aquaculture is now called for.,Every element of the issue must be consolidated; maybe it's time for a comprehensive examination of the entire aquaculture industry.,It is unnecessary to consider all parts of the problem; a superficial review of aquaculture practices may suffice.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+105,"Mr President, the dossier on European cities of culture which has been open since October 1997 will be closed, I hope, tomorrow.","I anticipate that the dossier on European cities of culture, which has been available since October 1997, will be closed tomorrow, Mr President.","The dossier on European cities of culture has been open since October 1997 and will be closed tomorrow, Mr President.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+106,"Premiums are to be increased by 10 %, with a corresponding reduction in special subsidies allocated through producer organisations.","Premiums will be raised by 10%, along with a decrease in special subsidies distributed by producer groups.","There will be a 20% increase in premiums, with no changes to the special subsidies provided by producer organizations.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+107,"At the end of 1997, the Commission put forward a controversial proposal for the harmonisation of copyright law in the Community.","In late 1997, the Commission introduced a contentious suggestion for standardizing copyright regulations within the Community.","In early 1998, the Commission proposed a non-controversial plan for aligning copyright laws in the Community.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+108,"I had proposed to you that the Euro-11 be recognised in the Treaty, but my understanding was that Mr Spiers did not agree.","I suggested to you that the Euro-11 should be acknowledged in the Treaty, but I believed that Mr Spiers disagreed.","I recommended to you that the Euro-11 should be included in the Treaty, but I thought that Mr Spiers agreed.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+109,"As a result, we would like to be convinced that these cooperation agreements are not going to contribute to such extremely dangerous research.","Therefore, we want to be assured that these partnership deals will not support such highly risky studies.","Consequently, we are eager to see that these collaborative arrangements will lead to more hazardous research.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+110,An important factor here is that the pay and other working conditions of those employed in navigation should be in line with those of other occupations.,It is crucial that the salary and benefits of workers in the navigation industry are comparable to those in other professions.,One key aspect to consider is that the compensation and perks of employees in the field of navigation must be significantly higher than those in other lines of work.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+111,"Indeed, without the chairmanship skills of the Deputy Prime Minister, John Prescott, the Conference would have produced more hot air than it prevented!",The Conference would have been less effective if it weren't for the leadership abilities of Deputy Prime Minister John Prescott.,"The Deputy Prime Minister, John Prescott, did not contribute significantly to the success of the Conference.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+112,I want to say very clearly that the Commission is no longer be prepared to accept ever-increasing tasks without receiving the means to execute them.,I want to emphasize that the Commission will no longer accept additional responsibilities without adequate resources.,The Commission is willing to continue taking on more tasks without the necessary resources.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+113,"The enlargement of the EU compels us to pay greater attention to these questions, a point which is also emphasised in the committee's proposals.","The expansion of the EU requires us to focus more on these issues, as highlighted in the committee's suggestions as well.","The growth of the EU forces us to ignore these questions, a point which is also highlighted in the committee's recommendations.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+114,"I am referring to the current vote but in relation to a vote that will take place later, namely the vote on Amendment No 98.","I am talking about the present vote in connection to a future vote, specifically the vote on Amendment No 98.","I am discussing the current ballot in regards to a future ballot, particularly the vote on Amendment No 98.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+115,"When I became a Member of the European Parliament in 1994, I was struck by the lack of knowledge and the total absence of understanding of the overseas territories.","Upon joining the European Parliament in 1994, I was surprised by the limited awareness and complete lack of comprehension regarding the overseas territories.","Upon entering the European Parliament in 1994, I was amazed by the vast knowledge and deep understanding of the overseas territories.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+116,"Mr President, let me express my thanks for the preceding remarks and extend a special welcome to my honourable colleague the Transport Commissioner.",I want to thank the President for his earlier comments and give a warm welcome to the Transport Commissioner.,"The President's remarks were not appreciated, and the Transport Commissioner is not a respected colleague.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+117,"We can replace 16 out of 626 Members of the European Parliament, but we can never again as voters decide to bring in a new law.","While 16 out of 626 Members of the European Parliament can be substituted, voters do not have the power to introduce a new law.","Only 16 out of 626 Members of the European Parliament can be changed, and voters have the authority to enact new legislation.","
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"
+118,The Council is making a mistake by leaving it entirely up to the United States to formulate proposals for a solution to the Middle East problem.,The Council is erring by solely relying on the United States to come up with solutions for the Middle East issue.,The Council is correct in entrusting the United States with the responsibility of formulating proposals for the Middle East problem.,"
+    Given the src below, generate a paraphrase hypothesis  hyp+ that is supported by src and a second paraphrase hyp- that is not supported by src.
+
+    Provide the result in the following format: {answer_format}
+
+    Src: {source}
+
+    Result:
+"

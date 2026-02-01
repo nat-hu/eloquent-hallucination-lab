@@ -1,0 +1,9 @@
+                         precision    recall  f1-score   support
+
+                   hyp1       0.67      0.22      0.33         9
+                   hyp2       0.62      0.91      0.74        11
+hyp2 is a hallucination       0.00      0.00      0.00         0
+
+               accuracy                           0.60        20
+              macro avg       0.43      0.38      0.36        20
+           weighted avg       0.64      0.60      0.56        20

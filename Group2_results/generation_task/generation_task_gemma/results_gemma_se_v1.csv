@@ -1,0 +1,621 @@
+id,source,hyp+,hyp-,prompt
+0,Kvinnor kommer att möta högre bilförsäkringspremier.,Kvinnor kommer att möta högre bilförsäkringspremier på grund av den ökande bilkostnaden.,Kvinnor kommer inte att möta högre bilförsäkringspremier på grund av den ökande bilkostnaden.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+1,"Rörelseintäkterna var 1,45 miljarder dollar, en ökning jämfört med förra årets resultat på 1,38 miljarder dollar. ",Rörelseintäkterna är ökade jämfört med förra årets resultat.,Rörelseintäkterna är inte ökade jämfört med förra årets resultat.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+2,"Mandela tillbaka på sjukhus i ""allvarligt men stabilt"" tillstånd.",Mandela tillbaka på sjukhus är i ett stabilt tillstånd.,Mandela tillbaka på sjukhus är i ett allvarligt tillstånd.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+3,Egypten fryser Muslimska brödraskapets tillgångar.,"Egypten fryser Muslimska brödraskapets tillgångar, vilket kommer att leda till en ökad efterfrågan efter islamistisk terrorisme.","Egypten fryser Muslimska brödraskapets tillgångar inte, vilket kommer att leda till en minskad efterfrågan efter islamistisk terrorisme.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+4,"P-pillret, som de kallar ""polypiller"", skulle innehålla acetylsalicylsyra, ett kolesterolsänkande läkemedel, tre blodtryckssänkande läkemedel vid halva standarddosen och folsyra.","P-pillret skulle innehålla acetylsalicylsyra, ett kolesterolsänkande läkemedel, tre blodtryckssänkande läkemedel vid halva standarddosen och folsyra.",P-pillret skulle innehålla ett annat läkemedel än acetylsalicylsyra.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+5,Beväpnad man dödar 6 i skottlossning mot Wisconsins sikh-tempel.,Beväpnad man dödar 6 i skottlossning mot Wisconsins sikh-tempel är ett exempel på hur väpnat crime kan leda till dödsfall.,Beväpnad man dödar 6 i skottlossning mot Wisconsins sikh-tempel är ett exempel på hur väpnat crime kan leda till misär.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+6,Man som satte eld på sig själv på National Mall dör av skador.,En person som satte eld på sig själv på National Mall dör av skador kommer att döda sig.,En person som satte eld på sig själv på National Mall kommer inte att döda sig.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+7,Romney tillkännager Paul Ryan som vicepresidentkandidat.,,,
+8,"Läkare säger att en eller båda pojkarna kan dö, och att vissa hjärnskador är möjliga om de överlever.",En eller båda pojkarna kan dö,Verrera hjärnskador är möjliga om de överlever,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+9,Nordkorea säger att en amerikansk medborgare ska ställas inför rätta.,Nordkorea säger att en amerikansk medborgare ska ställas inför rätta.,Nordkorea kommer inte att ställa en amerikansk medborgare inför rätta.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+10,Dussintals dödade i luftangrepp på bageri i centrala Syrien.,Källan indikerar att många personer dödades i luftangrepp på bageri i centrala Syrien.,Källan indikerar inte att luftangrepp är en orodlig orsak till döden på bageri i centrala Syrien.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+11,Kinas nya premiärminister avvisar USA:s hackningsanspråk.,Kinas nya premiärminister avvisar USA:s hackningsanspråk kommer att leda till en ökad trust på Kinas säkerhetspolitik.,Kinas nya premiärminister avvisar USA:s hackningsanspråk kommer att leda till en ökad tENSIONS mellan Kina och USA.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+12,USA:s toppdiplomat Kerrys fru skyndade till sjukhus.,Sjukhusbesökningar ökar när USA:s topdiplomat Kerrys fru skyndade till sjukhus.,Sjukhusbesökningar minskar när USA:s topdiplomat Kerrys fru skyndade till sjukhus.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+13,"Andy Murray förtjänaren adelstitel, säger David Cameron.",,,
+14,Brasilien nådde 2-2 mot England när Maracana öppnade igen.,"Maracana öppnade igen när Brasilien nådde 2-2 mot England, vilket vilket tillförde en boost till Brasilians lag.","Maracana öppnade igen när Brasilien nådde 2-2 mot England, vilket vilket lede till en ökning av antalet fans på stadions.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+15,"Yahoo går med på att köpa Tumblr för 1,1 miljarder dollar kontant.","Yahoo går med på att köpa Tumblr för 1,1 miljarder dollar kontant, vilket kommer att öka Yahoo's marknadsstyrka.","Yahoo går med på att köpa Tumblr för 1,1 miljarder dollar kontant, vilket kommer att minska Yahoo's marknadsstyrka.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+16,Den amerikanska senaten bekräftar Janet Yellen som chef för USA:s centralbank.,Janet Yellen blir chef för USA:s centralbank och detta kommer att leda till en ökning av inflationen.,Janet Yellen blir chef för USA:s centralbank och detta kommer att leda till en stabilt inflation.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+17,"Zimmerman stannades för fortkörning i Texas, släpptes med varning",En person som stannades för fortkörning i Texas blir släpptes med varning.,En person som stannades för fortkörning i Texas blir inte släpptes med varning.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+18,"Ruffner, 45, har ännu ingen advokat för mordåtalet, sa myndigheterna.",En advokat för mordåtalet kommer att ge en bättre utgång för den angripande parten.,Angripande partens utgång kommer att vara bättre när den har en advokat på sin sida.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+19,En äldre kvinna står i ett kök med två katter vid sina fötter.,,,
+20,Baksidan av en stoppskylt med många klistermärken på.,En hög koncentration av klistermärken på en stopperskylt indikerar en hög trafficflow på den specifica platsen.,En hög koncentration av klistermärken på en stopperskylt indikerar en hög hastighet på den specifica platsen.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+21,"""Handskarna är av"", sa UNIFI-tjänstemannen Rob O\'Neill.",Handskarna är av hög kvalitet och kan överleva många år.,Handskarna är av låg kvalitet och kommer att gå sönder inom få år.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+22,Syriens militärpolischef hoppade av till opposition,Syriens militärpolischef hoppade av till opposition kommer att leda till en minskning av väbalakningen i landet.,Syriens militärpolischef hoppade av till opposition kommer att leda till en ökning av väbalakningen i landet.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+23,General Electric redovisar 9% vinstminskning för tredje kvartalet.,Vinstminskningen är högst 9% för tredje kvartalet.,Vinstminskningen är lägre än 9% för tredje kvartalet.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+24,Östtimor förbjuder kampsportsklubbar på grund av mord.,Östtimor förbjuder kampsportsklubbar på grund av mord är en sanning.,Östtimor förbjuder kampsportsklubbar på grund av mord är en misär.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+25,Uttalandet specificerade inte hur många stridsspetsar som missilen kan bära.,En stridsspets kan bära fler stridsspetsar än den kan få.,En stridsspets kan inte bära fler stridsspetsar än den kan få.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+26,BlackBerry förlorar 965 miljoner USD under andra kvartalet.,BlackBerry förlorar 965 miljoner USD under andra kvartalet är sannolikt.,BlackBerry förlorar 965 miljoner USD under andra kvartalet är osannolikt.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+27,"""När du gick över gränsen, kränkte du den konstitutionella rätten"", säger Charles Weisselberg, juridikprofessor vid UC Berkeley.",,,
+28,"Snowden ser ""ingen chans"" för en rättvis rättegång i USA.",,,
+29,Anthony Weiner halkar ned till fjärde plats i ny omröstning.,,,
+30,USA tror att den Syriska regeringen använde kemiska vapen.,USA troir att den Syriska regeringen använde kemiska vapen.,Den Syriska regeringen har inte använt kemiska vapen.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+31,Tre befaras döda efter att helikopter kraschade in i krog.,Helikopterkraschen ledes till döds för de tre befaras.,"Helikopterkraschen kan leda till döds, men inte tre befaras.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+32,Macaos spelintäkter nådde ett rekord på 38 miljarder dollar 2012.,Macao spelintäkter nådde ett rekord på 38 miljarder dollar 2012,Macao spelintäkter nådde inte ett rekord på 38 miljarder dollar 2012,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+33,Helmand-provinsen är världens största opiumproducerande region.,"Helmand-provinsen är världens största opiumproducerande region, vilket indikerar en starka opiumproduktion i området.","Opiumproduktion är en viktig faktor för västra Afghanistans ekonomi, vilket inte är känt från källan.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+34,Åtminstone 11 fler fall i Indiana och tre i Illinois misstänks.,Antalet misstantagna fall i Indiana och Illinois ökar med tillväxten av antalet misstantagna fall i närheten av storstadarna Chicago och Indianapolis.,Antalet misstantagna fall i Indiana och Illinois är inte korrelaterat till närheten av storstadarna Chicago och Indianapolis.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+35,"Önationen rapporterade 65 nya fall den 22 maj, ett endagsrekord, och 55 nya fall den 23 maj, vilket gör Taiwans epidemi till den snabbast växande i världen.",Taiwans epidemi är den snabbast växande i världen.,Taiwans epidemi är den långsammaste växande i världen.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+36,Wells andra serier inkluderar NBC:s ER och Third Watch.,Wells andra serier inkluderar NBC:s ER och Third Watch kommer att öka ratingsen för dessa serier.,Wells andra serier inkluderar NBC:s ER och Third Watch kommer att minska ratingsen för dessa serier.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+37,Pojkscouter skjuter upp beslutet om att släppa in homosexuella.,Släpping in homosexuella är ett effektivt sätt att öka antalet homosexuella.,Släpping in homosexuella är inte ett effektivt sätt att öka antalet homosexuella.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+38,Ryssland finner den döde advokaten Magnitskij skyldig i postum rättegång.,Ryssland finner den döde advokaten Magnitskij skyldig i postum rättegång.,Ryssland finner inte den döde advokaten Magnitskij skyldig i postum rättegång.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+39,"2 döda, 2 skadade i skottlossning på mellanstadiet i Nevada.",Skottlossning på mellanstadiet i Nevada är ett farligt sport som kan leda till döds eller skadade.,Skottlossning på mellanstadiet i Nevada är ett güvenligt sport som kan utföras utan risk för döds eller skadade.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+40,Putin uppgav att den ryska regeringen helt och hållet kan dra sig ur fördraget om västerländska nationer vägrar att ratificera det ändrade fördraget.,Putin uppgav att den ryska regeringen helt och hållet kan dra sig ur fördraget om västerländska nationer vägrar att ratificera det ändrade fördraget.,Det är osannolikt att den ryska regeringen kan dra sig ur fördraget om västerländska nationer vägrar att ratificera det ändrade fördraget.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+41,"""Och nu är det vad han vill säga"", sa Alesha Badgley, socialchef för Stone County Nursing and Rehabilitation Center, denna vecka.",,,
+42,Napolitano valdes för andra mandatperioden som Italiens president.,Napolitano valdes för andra mandatperioden som Italiens president vilket kommer att leda till en ökad stabilitet i landet.,Napolitanos val kommer att leda till en ökad inflation och en nedgång på den svenska ekonomin.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+43,Ska jag skriva på det här papperet? Ska jag förneka sånt jag har gjort och blivit benådad för ... så att ni kan säga att jag inte gjorde det?,"Om man skriver på det här papperet och förnekar sånt man har gjort, kan man säga att man inte gjorde det.","Det är inte alltid rätt att säga att någon som förnekar sånt de har gjort, inte har gjort det.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+44,Ryssland varnar för att de kommer att reagera om intressen attackeras i Ukraina.,Ryssland kommer att reagera om intressen attackeras i Ukraina.,Ryssland kommer inte att reagera om intressen attackeras i Ukraina.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+45,Myanmars Suu Kyi uppmanar till enighet i partiet mitt i gräl.,Myanmars Suu Kyi uppmanar till enighet i partiet mitt i gräl kan leda till en ökad politisk stabilitet.,Myanmars Suu Kyi uppmanar till enighet i partiet mitt i gräl kan leda till en ökad instabilitet.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+46,"AAA-talesman Jerry Cheske sa att priserna kan ha påverkat vissa planer, men billiga hotellerbjudanden mildrade effekten.",Priserna kan ha påverkat vissa planer,Billiga hotellerbjudanden mildrade effekten,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+47,Sendmail sa att systemet till och med kan ställas in för att tillåta enbart företagsanvändning.,Systemet kan ställas in för att tillåta enbart företagsanvändning.,Systemet kan inte ställas in för att tillåta enbart företagsanvändning.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+48,Ny kraftig jordbävning drabbar den krossade regionen i Pakistan.,Krossad regionen i Pakistan kommer att bli mer stabilt efter den nya kraftiga jordbävningen.,Krossad regionen i Pakistan kommer att bli mer instabilt efter den nya kraftiga jordbävningen.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+49,Teamledaren för Saferworld för överföringskontroller och handeldvapen Roy Isbister sa: EU-embargot förbjuder direkt eller indirekt leverans av militär utrustning för användning i Myanmar.,EU-embargot förbjuder direkt eller indirekt leverans av militär utrustning för användning i Myanmar.,EU-embargot förbjuder inte leverans av militär utrustning till Myanmar.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+50,"Värdet kommer att uppgå till cirka 124 miljoner dollar, inklusive konvertibla värdepapper, enligt Corel.","Värdet kommer att uppgå till cirka 124 miljoner dollar, inklusive konvertibla värdepapper, enligt Corel.","Värdet kommer att uppgå till cirka 100 miljoner dollar, inklusive konvertibla värdepapper, enligt Corel.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+51,Obama kommer att tala om Syrien från Vita huset klockan 13:15 EDT.,Obama kommer att tala om Syrien från Vitahuset klockan 13:15 EDT.,Obama kommer inte att tala om Syrien från Vitahuset klockan 13:15 EDT.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+52,Beväpnade män omringar Libyens utrikesministerium för att driva krav.,Libyens utrikesministerium är oslagligt och kommer inte att ge efter de krav som kommer från Beväpnade män.,Libyens utrikesministerium är välkänt och kommer att ge efter de krav som kommer från Beväpnade män.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+53,"Medan vissa andra delar av Afrika har använts som iscensättningsplatser för terrorgruppen, hade Malawi tidigare inte varit ett stort fokus för utredningar av al-Qaida.","Med tanke på källan, är det sannolikt att Malawi har använts som iscensättningsplatser för terrorgruppen al-Qaida.",Malawi har inte använts som iscensättningsplatser för al-Qaida.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+54,Syrien förnekar att de har ett odeklarerat kärnkraftsprogram.,Syrien har ett odeklarerat kärnkraftsprogram.,Syrien har inte ett odeklarerat kärnkraftsprogram.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+55,Ankeet Chavan beviljade villkorlig borgen för äktenskap.,En villkorlig borgen för äktenskap är en åtgärd som kan användas för att skydda rättssäkerheten för den som åtar sig att gifta sig med en person som är inebrirat eller har andra problem med sin åtgärd.,En villkorlig borgen för äktenskap är inte en åtgärd som kan användas för att skydda rättssäkerheten för den som åtar sig att gifta sig med en person som är inebrirat eller har andra problem med sin åtgärd.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+56,En flicka som leker i en hög med färgglada bollar.,Leksaken leker på bollarna och blir mer upphetsad när bollarna är färgglada.,Leksaken blir mer upphetsad när bollarna är mindre.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+57,Bush planerar att träffa Israels premiärminister Ariel Sharon och den nya palestinske premiärministern Mahmoud Abbas i den jordanska hamnen Aqaba på onsdag.,Bush planerar att träffa Israels premiärminister Ariel Sharon och den nya palestinske premiärministern Mahmoud Abbas i den jordanska hamnen Aqaba på wednesday.,Bush planerar inte att träffa Israels premiärminister Ariel Sharon och den nya palestinske premiärministern Mahmoud Abbas i den jordanska hamnen Aqaba på wednesday.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+58,Kevin Rudd svors in som Australiens premiärminister.,Kvanter av den totala tillgängliga resursen för en nation är ett välkänt index för att mäta en nations rikedom och förmågan att köpa eller sälja på marknaden.,Den totala tillgängliga resursen för en nation är inte ett välkänt index för att mäta en nations rikedom och förmågan att köpa eller sälja på marknaden.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+59,Par gifter sig i Storbritanniens första scientologi-bröllop.,Scionologiska bröllop kan öka den totala skördningen av gifter.,Scionologiska bröllop kan leda till ökad användning av gifter.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+60,Sökandet i Turkiet slutade med att de sista försvunna gruvarbetarna hittades.,Sökandet i Turkiet slutade med att de sista försvunna gruvarbetarna hittades.,Sökandet i Turkiet slutade med att de sista försvunna gruvarbetarna hittades inte.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+61,När bomben exploderade vid Casa de España åt kunderna middag och spelade bingo.,"Bomben exploderade vid Casa de España, vilket skada många kunder.","Bomben exploderade vid Casa de España, vilket inte skada många kunder.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+62,Utredare undersöker motiven för LAX-flygplatsens skytt.,Motiven för LAX-flygplatsens skytt är påverkade av den efterfrågan efter flygplatsen.,Motiven för LAX-flygplatsens skytt är inte påverkade av den efterfrågan efter flygplatsen.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+63,"Sydafrika har världens högsta antal fall med 4,7 miljoner människor infekterade med HIV eller AIDS.","Sydafrika har världens högsta antal fall med HIV eller AIDS, vilket stöds av källan.","Sydafrika har världens lägsta antal fall med HIV eller AIDS, vilket inte stöds av källan.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+64,"""Ändå kan den \'något tvetydiga domen\' vara ett bakslag för Static Control beroende på hur den utvecklade sin konkurrerande produkt"", sa Merrill Lynch-analytiker Steven Milunovich.",,,
+65,International atomic energy association är Förenta nationernas vakthund.,International Atomic Energy Association är en organisation som ger en stor del av sin information till allmänheten.,International Atomic Energy Association är en organisation som övervakar kärnkraften och säkerhetsaspekten,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+66,Den mexikanska regeringen har antagit en rad åtgärder mot narkotikahandel och organiserad brottslighet i Mexiko sedan 2006.,Antagandet av åtgärder mot narkotikahandel och organiserad brottslighet i Mexiko sedan 2006 har minskat narkotikahandel och organiserad brottslighet i landet.,Antagandet av åtgärder mot narkotikahandel och organiserad brottslighet i Mexiko sedan 2006 har inte påverkat narkotikahandel och organiserad brottslighet i landet.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+67,Indiska trupper som redan kämpar mot rebeller i Kashmir är nu engagerade i en massiv kampanj för att förstöra vallmogrödor i regionen.,"Indiska trupper som redan kämpar mot rebeller i Kashmir är nu engagerade i en massiv kampanj för att förstöra vallmogrödor i regionen, vilket kommer att leda till en ökad stabilitet i Kashmir.","Indiska trupper som redan kämpar mot rebeller i Kashmir är nu engagerade i en massiv kampanj för att förstöra vallmogrödor i regionen, vilket kommer att leda till en ökad instabilitet i Kashmir.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+68,Uppdaterad - Två explosioner nära mållinjen i Boston Marathon.,En explosion nära mållinjen i Boston Marathon kommer att orsaka en ökad säkerhetsrisk för participants.,En explosion nära mållinjen i Boston Marathon kommer att orsaka en minskad säkerhetsrisk för participants.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+69,Över 100 döda när tyfonen slår mot centrala Filippinerna.,Tyfonen kommer att döda över 100 personer när den slår mot centrala Filippinerna.,Tyfonen kommer inte att döda över 100 personer när den slår mot centrala Filippinerna.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+70,Ryssland ratificerade den ändrade versionen av fördraget.,Rissland ratificerade den ändrade versionen av fördraget kommer att leda till en ökad stabilitet i Europa.,Rissland ratificerade den ändrade versionen av fördraget kommer inte att leda till en ökad stabilitet i Europa.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+71,Du kommer att komma på saker! Jag kommer att bli uttråkad och känna mig bunden för det är sån jag är.,"Källan stöds hypen att när man är uttråkad, då blir man bunden för något.","Källan stöds inte hypen att när man är uttråkad, då blir man mer fri från något.","
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+72,Påven uppmanar till åtgärder mot klimatförändringar i utkastet till encyklika.,Påven uppmanar till åtgärder mot klimatförändringar i utkastet till encyklika kommer att leda till en ökad medvetande och en ökad åtgärd mot klimatförändringar.,Påven uppmanar till åtgärder mot klimatförändringar i utkastet till encyklika kommer inte att leda till en ökad medvetande och en ökad åtgärd mot klimatförändringar.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+73,Egyptens ledare inför undantagstillstånd i tre städer.,Egypten kommer att behålla undantagstillståndet i de tre städerna.,Egypten kommer inte att behålla undantagstillståndet i de tre städerna.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+74,En svartvit bild av en katt som ligger på en matta.,En svartvit bild av en katt ligger stabilt på en matta.,En svartvit bild av en katt ligger överhängad från mattan.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "
+75,Texaner som dignar under skyhöga hemförsäkringspremier kan äntligen få lättnad.,Texaner som dignar under skyhöga hemförsäkringspremier kan äntligen få lättnad.,Texaner som dignar under skyhöga hemförsäkringspremier kan inte få lättnad.,"
+       <start_of_turn>användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    <end_of_turn>
+    Resultat:
+    <start_of_turn>modell
+      "

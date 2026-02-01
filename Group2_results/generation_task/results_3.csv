@@ -1,0 +1,10 @@
+hyp,ref,src,tgt,model,task,labels,label,p(Hallucination),generated paraphrase,prompt,BLEU Score,BERT Score,ROUGE Score
+That’s not happening at the moment.,either,That’s not happening.,That isn’t gonna happen.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.3333333333333333,^ ,,,,
+I have a permit to carry it.,either,I have a permit.,"Uh, I’m validated.",tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,^I have a permit.,,,,
+The process is easy.,either,"Easy, easy.",Watch it now.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Not Hallucination']",Hallucination,0.6666666666666666,^ ,,,,
+A number between five and eight.,either,"A five, six, seven, eight.","And 5, 6, 7, 8.",tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Not Hallucination']",Hallucination,0.6666666666666666,"^A five, six, seven, eight.",,,,
+That is a safer way to travel.,either,A lot safer that way.,Because it’s safer.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,^A lot safer that way.,,,,
+You’re not a good scam artist.,either,You’re a scam artist.,You are an imposter.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,^ ,,,,
+When did you see him?,either,When’d you last see him?,When was the last time you saw him?,tuner007/pegasus_paraphrase,PG,"['Not Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.0,^ When did you last see him?,,,,
+Let me leave.,either,Let me out of here.,Someone let me out.,tuner007/pegasus_paraphrase,PG,"['Not Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.0,^ Let me out of here. ,,,,
+It is not impossible.,either,Nothing is impossible.,There’s nothing that can’t be done.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.3333333333333333,"^ ""Impossible things are possible.""",,,,

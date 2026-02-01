@@ -1,0 +1,71 @@
+id,source,hyp+,hyp-,prompt
+0,Kvinnor kommer att möta högre bilförsäkringspremier.,Kvinnor kan förvänta sig att betala högre premie för sina bilförsäkringar än män på grund av statistiska skillnader i trafikbeteende och risk.,Kvinnor kommer att betala lägre premie för sina bilförsäkringar än män på grund av deras mer försiktiga körning.,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+1,"Rörelseintäkterna var 1,45 miljarder dollar, en ökning jämfört med förra årets resultat på 1,38 miljarder dollar. ","The company's revenue increased to 1.45 billion dollars, a growth compared to the previous year's result of 1.38 billion dollars.","The company's revenue decreased to 1.45 billion dollars, a decline compared to the previous year's result of 1.38 billion dollars.","
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+2,"Mandela tillbaka på sjukhus i ""allvarligt men stabilt"" tillstånd.",Mandela har återvänt till sjukhuset för att fortsätta sin behandling i stabilt tillstånd.,Mandela har avlidit på sjukhuset efter en serie omfattande operationer.,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+3,Egypten fryser Muslimska brödraskapets tillgångar.,Egypten har tagit beslut om att frysa Muslimska brödraskapets tillgångar på grund av brott mot landets lagar och ordning.,Egypten har förklarat Muslimska brödraskapet som en fredlig organisation och har därför inte tagit några åtgärder mot deras tillgångar.,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+4,"P-pillret, som de kallar ""polypiller"", skulle innehålla acetylsalicylsyra, ett kolesterolsänkande läkemedel, tre blodtryckssänkande läkemedel vid halva standarddosen och folsyra.","P-pillret skulle innehålla en kombination av läkemedel för att behandla flera hälsoproblem samtidigt, inklusive kolesterolsänkning och blodtryckssänkning.",P-pillret skulle innehålla ett könshormon för att behandla sexuella problem.,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+5,Beväpnad man dödar 6 i skottlossning mot Wisconsins sikh-tempel.,"En beväpnad person dödade sex personer i en skottlossning vid ett sikh-tempel i Wisconsin, enligt rapporter.","En kvinna iklädd dräkt dödade sex personer i en dansattack på ett sikh-tempel i Wisconsin, enligt rykten.","
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+6,Man som satte eld på sig själv på National Mall dör av skador.,A man who set himself on fire on the National Mall has succumbed to the severity of his injuries.,The man who set himself on fire on the National Mall miraculously recovered from his injuries and is now living a healthy life.,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+7,Romney tillkännager Paul Ryan som vicepresidentkandidat.,Mitt Romney chooses Paul Ryan as his running mate for the presidential election.,Mitt Romney selects Joe Biden as his vice presidential candidate.,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+8,"Läkare säger att en eller båda pojkarna kan dö, och att vissa hjärnskador är möjliga om de överlever.","Enligt läkare finns det risk för dödliga konsekvenser för ett eller båda pojkarna, samt möjliga hjärnskador om de överlever",Det är inte möjligt att båda pojkarna överlever och vara friska,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "
+9,Nordkorea säger att en amerikansk medborgare ska ställas inför rätta.,Nordkorea har officiellt meddelat att de har gripit en amerikansk medborgare och att denne ska ställas inför rätta enligt landets lagar och regler.,Nordkorea har hotat att döda alla amerikaner som befinner sig på deras territorium om de inte friges en nordkoreansk agent som är fängslad i USA.,"
+    användare
+    Med tanke på källan nedan, generera en parafras-hypotes hyp+ som stöds av källan och en andra parafras hyp- som inte stöds av källan.
+    Ge resultatet i följande format: {answer_format}
+    Källa: {source}
+    Resultat:
+      "

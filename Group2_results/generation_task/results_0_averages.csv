@@ -1,0 +1,21 @@
+Metric,Hallucination Average,Non-Hallucination Average
+BLEU,6.681494072985634e-232,1.41158612445278e-231
+BERT,0.7502953341455616,0.8392366765892493
+Prompt,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      "

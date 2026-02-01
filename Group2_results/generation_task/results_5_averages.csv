@@ -1,0 +1,5 @@
+Metric,Hallucination Average,Non-Hallucination Average
+BLEU,1.1921461303139012e-231,1.6030157918251588e-231
+BERT,0.7905300979504206,0.8200367460761452
+Prompt,"Paraphrase the source sentence while preserving its context and coherence: ""{source}"",Revise the sentence's meaning, coherence, and add extra details: ""{source}""
+      "

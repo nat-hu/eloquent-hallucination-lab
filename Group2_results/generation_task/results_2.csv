@@ -1,0 +1,172 @@
+hyp,ref,src,tgt,model,task,labels,label,p(Hallucination),generated paraphrase,prompt,BLEU Score,BERT Score,ROUGE Score
+That’s not happening at the moment.,either,That’s not happening.,That isn’t gonna happen.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.3333333333333333,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.8496657111504358,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+I have a permit to carry it.,either,I have a permit.,"Uh, I’m validated.",tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.840833014980223,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+The process is easy.,either,"Easy, easy.",Watch it now.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Not Hallucination']",Hallucination,0.6666666666666666,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.8176721106814689,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+A number between five and eight.,either,"A five, six, seven, eight.","And 5, 6, 7, 8.",tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Not Hallucination']",Hallucination,0.6666666666666666,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.7756889342803641,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+That is a safer way to travel.,either,A lot safer that way.,Because it’s safer.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.8347484068220767,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+You’re not a good scam artist.,either,You’re a scam artist.,You are an imposter.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.8122539130041908,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+When did you see him?,either,When’d you last see him?,When was the last time you saw him?,tuner007/pegasus_paraphrase,PG,"['Not Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.0,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.8783009982409768,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+Let me leave.,either,Let me out of here.,Someone let me out.,tuner007/pegasus_paraphrase,PG,"['Not Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.0,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.8402609218169208,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+It is not impossible.,either,Nothing is impossible.,There’s nothing that can’t be done.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.3333333333333333,^ ,"
+**Task:** Paraphrase the Source Sentence
+        In this task, you'll paraphrase the provided source sentence without adding any false information.
+        **Instructions:**
+        1. Paraphrase the source sentence while maintaining its original context and coherence.
+        2. Ensure that the new sentence logically follows from the source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version of the source sentence.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a valid paraphrase could be ""The feline rested on the rug.""
+
+        **Task:** Paraphrase with Hallucination
+        In this task, you'll paraphrase the provided source sentence while introducing some false information.
+        **Instructions:**
+        1. Paraphrase the source sentence with hallucinations - introduce some false information while maintaining coherence.
+        2. Ensure that the new sentence differs logically from the original source sentence.
+        **Source Sentence:** ""{source}""
+        **Your Task:** Generate a paraphrased version with hallucinations.
+        **Example:** If the source sentence is ""The cat sat on the mat"", a hallucinated paraphrase could be ""The cat lounged on the soft, velvet mat in the cozy living room.""  
+      ",1.5319719891192393e-231,0.8064287595006884,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"

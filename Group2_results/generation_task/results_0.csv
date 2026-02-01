@@ -1,0 +1,163 @@
+hyp,ref,src,tgt,model,task,labels,label,p(Hallucination),generated paraphrase,prompt,BLEU Score,BERT Score,ROUGE Score
+That’s not happening at the moment.,either,That’s not happening.,That isn’t gonna happen.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.3333333333333333,^ThisTaskIsNotHappeningInTheRealWorldButItIsHappeningInMyMind,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",1.1872004050154218e-231,0.8566718309409921,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+I have a permit to carry it.,either,I have a permit.,"Uh, I’m validated.",tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",6.630398171726777e-232,0.8353805868873366,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+The process is easy.,either,"Easy, easy.",Watch it now.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Not Hallucination']",Hallucination,0.6666666666666666,1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",6.630398171726777e-232,0.830391047711536,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+A number between five and eight.,either,"A five, six, seven, eight.","And 5, 6, 7, 8.",tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Not Hallucination']",Hallucination,0.6666666666666666,                                                 ,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",6.885877678021066e-232,0.4338700745228152,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0, recall=0, fmeasure=0)}"
+That is a safer way to travel.,either,A lot safer that way.,Because it’s safer.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",6.630398171726777e-232,0.8409637013287671,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+You’re not a good scam artist.,either,You’re a scam artist.,You are an imposter.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Hallucination', 'Hallucination']",Hallucination,1.0,1  2  3  4  5  6  7  8  9  10  11  12  13  14  15  16  17,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",6.630398171726777e-232,0.8108712602773529,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+When did you see him?,either,When’d you last see him?,When was the last time you saw him?,tuner007/pegasus_paraphrase,PG,"['Not Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.0,^Whendyoulastseehim,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",1.6879202841664302e-231,0.8590123592216121,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+Let me leave.,either,Let me out of here.,Someone let me out.,tuner007/pegasus_paraphrase,PG,"['Not Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.0,^Letmeoutofhere,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",1.6034157163765524e-231,0.8243436050893941,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
+It is not impossible.,either,Nothing is impossible.,There’s nothing that can’t be done.,tuner007/pegasus_paraphrase,PG,"['Hallucination', 'Not Hallucination', 'Not Hallucination']",Not Hallucination,0.3333333333333333,^ThisTaskIsNotImpossibleToDoWithTheRightToolsAndKnowledgeAndEffortAndHardWork,"
+      In this task, you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence without hallucinations.
+      Ensure that the new sentence flows logically from the source sentence, maintaining the original context and coherence while eliminating any false information!
+      Paraphrasing involves expressing the meaning of a text or speech using different words and sentence structures while
+      maintaining the original intent. Your task is to rephrase the source sentence in a way that accurately conveys its message without
+      introducing any false information.
+      Generate a paraphrased sentence of the following source sentence: {source}.
+      Answer with the new paraphrased sentence!
+
+      In this task you will be provided with a source sentence.
+      Your goal is to create a paraphrased version of that source sentence with hallucinations.
+      Hallucination means that the logical meaning and the coherence differs from the original source sentence and more information is added in the paraphrased version
+      which is not provided in the source sentence.
+      ## YOUR TASK
+      Generate a paraphrased sentence with hallucination of the following source sentence: {source}
+      Return only the new paraphrased sentence!
+      ",1.1678080922527151e-231,0.8169189111049988,"{'rouge1': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rouge2': Score(precision=0.0, recall=0.0, fmeasure=0.0), 'rougeL': Score(precision=0.0, recall=0.0, fmeasure=0.0)}"
