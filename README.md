@@ -1,7 +1,7 @@
 <table border="0" cellspacing="0" cellpadding="0" width="100%">
 <tr>
 <td width="65%" align="center" valign="middle">
-<img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/project.png"
+<img src="https://raw.githubusercontent.com/nat-hu/eloquent-hallucination-lab/main/images/project_overview.png"
      width="100%"
      style="height:auto; max-height:500px; border-radius:8px;"
      alt="Hallucination Detection Architecture">
